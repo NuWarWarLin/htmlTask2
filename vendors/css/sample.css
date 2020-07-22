@@ -78,6 +78,11 @@ padding-bottom: 10px;
   padding-left:6rem;
   overflow: hidden;
 }
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
 /* ここまでがfunction部分の実装 */
 footer {
   width: 100%;
