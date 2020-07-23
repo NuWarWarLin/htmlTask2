@@ -70,7 +70,8 @@ padding-bottom: 10px;
 .function-images {
   padding-top: 3rem;
   padding-bottom: 9rem;
-  padding-left: 26rem;
+  padding-left: auto;
+  padding-right:auto;
 }
 .function-image {
   float: left;
